@@ -2,4 +2,8 @@ test text
 
 Wrote this to test my new git branch called trialBranch
 
+<<<<<<< HEAD
 Testing merge.
+=======
+Testing merge conflict
+>>>>>>> trialBranch
